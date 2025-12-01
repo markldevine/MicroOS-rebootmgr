@@ -1,0 +1,19 @@
+{
+  "auth": "zef:markldevine",
+  "authors": [ "Mark Devine <mark@markdevine.com>" ],
+  "depends": [],
+  "description": "MicroOS rebootmgr Interface",
+  "license": "Artistic-2.0",
+  "meta-version": 0,
+  "name": "MicroOS::rebootmgr",
+  "perl": "6.*",
+  "provides": {
+    "MicroOS::rebootmgr": "lib/MicroOS/rebootmgr.rakumod"
+  },
+  "resources": [],
+  "source-url": "https://github.com/markldevine/MicroOS-rebootmgr.git",
+  "tags": [
+    "COMMAND"
+  ],
+  "version": "0.0.1"
+}
